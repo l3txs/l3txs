@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Nosso dia!</title>
+	<tittle>Nosso dia!</tittle>
 </head>
 <body>
 	<h1>Bem-vinda ao nosso site!</h1>
@@ -17,7 +17,7 @@ Com todo o meu amor e respeito,
 
 Lelê. 🤍</p>
 	<img src="https://photos.app.goo.gl/trtrHTyPtbmz8wzX6"
- alt="Imagem de exemplo">
+ alt="https://photos.app.goo.gl/trtrHTyPtbmz8wzX6">
 	<p>Espero que tenha gostado do nosso site!</p>
 </body>
 </html>
